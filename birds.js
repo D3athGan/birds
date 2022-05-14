@@ -1,6 +1,8 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r70/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+<script src="https://https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/OrbitControls.js"></script>
 
 //THREEJS RELATED VARIABLES 
-
 var scene, 
     camera,
     controls,
